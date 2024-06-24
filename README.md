@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**sunw0/sunw0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p><strong>Once I've used</strong></p>
+  <div>
+  	<img src="https://skillicons.dev/icons?i=cs,java,py,php,html,css,js,ts,nodejs"/><br/>
+    <img src="https://skillicons.dev/icons?i=spring,mongodb,postgres,mysql,sqlite,idea,rider,pycharm,figma"/>
+  </div>
+  <hr/>
+  <p><strong>plan to learn</strong></p>
+  <div>
+    <img src="https://skillicons.dev/icons?i=rust,go,kotlin,react,nextjs,vue,unreal,unity"/>
+  </div>
+</div>
